@@ -1,0 +1,20 @@
+{
+    "name": "gerpayt/yii2-multiselect",
+    "description": "MultiSelect Input Widget",
+    "keywords": ["yii2", "extension", "widget", "checkbox", "multiselect", "plugin"],
+    "homepage": "https://github.com/gerpayt/yii2-multiselect",
+    "type": "yii2-extension",
+    "license": "BSD 3-Clause",
+    "authors": [
+        {
+            "name": "Chen Feng",
+            "email": "gerpayt@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "gerpayt\\yii2_multiselect\\": ""
+        }
+    }
+}
